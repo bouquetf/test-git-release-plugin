@@ -22,8 +22,8 @@
     </build>
 
     <scm>
-        <developerConnection>git@github.com:bouquetf/test-git-release-plugin.git</developerConnection>
-        <connection>git@github.com:bouquetf/test-git-release-plugin.git</connection>
+        <developerConnection>scm:git:git@github.com:bouquetf/test-git-release-plugin.git</developerConnection>
+        <connection>scm:git:git@github.com:bouquetf/test-git-release-plugin.git</connection>
     </scm>
 
 
