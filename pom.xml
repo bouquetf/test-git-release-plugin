@@ -8,6 +8,16 @@
     <artifactId>test-release-plugin</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-release-plugin</artifactId>
+                <groupId>org.apache.maven.plugins</groupId>
+                <version>2.4.1</version>
+            </plugin>
+        </plugins>
+    </build>
+
     <scm>
         <developerConnection>git@github.com:bouquetf/test-git-release-plugin.git</developerConnection>
         <connection>git@github.com:bouquetf/test-git-release-plugin.git</connection>
