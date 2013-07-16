@@ -4,7 +4,7 @@
 
     <groupId>test-release-plugin</groupId>
     <artifactId>test-release-plugin</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.1</version>
 
     <build>
         <plugins>
@@ -22,7 +22,7 @@
     <scm>
         <developerConnection>scm:git:git@github.com:bouquetf/test-git-release-plugin.git</developerConnection>
         <connection>scm:git:git@github.com:bouquetf/test-git-release-plugin.git</connection>
-      <tag>HEAD</tag>
+      <tag>test-release-plugin-1.1</tag>
   </scm>
 
 
